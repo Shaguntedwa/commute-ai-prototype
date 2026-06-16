@@ -15,7 +15,7 @@ safer journeys before they leave home.
 - 📌 Personalized Recommendations
 
 ## Live Demo
-👉 [Try it on Hugging Face Spaces](YOUR_HUGGINGFACE_URL_HERE)
+👉 https://huggingface.co/spaces/shaguntedwa19/CommuteAIProtottype
 
 ## How to Run Locally
 pip install -r requirements.txt
